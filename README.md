@@ -1,10 +1,10 @@
-# Project Title
+# Todo List App
 
 Todo List App using React, TypeScript,Node and Firebase Admin
 
 ## Table of Contents
 
-- [Project Title](#project-title)
+- [Todo List App](#todo-list-app)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Features](#features)
